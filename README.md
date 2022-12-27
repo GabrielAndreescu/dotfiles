@@ -1,4 +1,6 @@
-# Gabriel's Dotfiles
+# Gabriel's dotfiles
+
+My personal .dotfiles / app configs
 
 ## How I manage my Dotfiles
 
