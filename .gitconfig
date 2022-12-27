@@ -1,3 +1,7 @@
 [user]
 	email = gabriel@andreescu.dev
 	name = Gabriel Andreescu
+[color]
+	status = auto
+[core]
+	editor = vim

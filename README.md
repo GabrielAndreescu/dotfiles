@@ -1,5 +1,5 @@
-# dotfiles
-My personal .files / app configs
+# Gabriel's Dotfiles
 
+## How I manage my Dotfiles
 
-UNMAINTAINED - still need to find the time to update this
+https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
